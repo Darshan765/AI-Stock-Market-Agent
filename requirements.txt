@@ -1,0 +1,7 @@
+flask
+requests
+yfinance
+python-dotenv
+groq
+textblob
+pandas
